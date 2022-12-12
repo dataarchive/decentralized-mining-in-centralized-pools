@@ -19,8 +19,8 @@ Enter
 | h\_rate\_solo.m | Computes the global hash rate under solo mining. |
 | h\_rate\_full.m | Computes the global hash rate under full risk sharing. |
 | h\_rate\_mc.m | Computes the global hash rate under monopolistic competition with pools of homogeneous size. |
-| f\_star.m | Computes f\*, which is the solution to |
-| z\_fun.m | Computes z(f)|
+| f\_star.m | Computes f\*. |
+| z\_fun.m | Computes z(f). |
 
 #
 
