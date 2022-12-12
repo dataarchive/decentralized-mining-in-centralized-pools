@@ -14,7 +14,7 @@ Enter
 
 
 ## Files Related to Figures 2
-
+| File Name | Usage |
 | ----------- | ----------- |
 | h\_rate\_solo.m | Computes the global hash rate under solo mining. Reference (on page 21): . |
 | h\_rate\_full.m | Computes the global hash rate under full risk sharing. Reference (on pages 17 & 21): |
@@ -33,6 +33,7 @@ Enter
 \>\> fig3
 
 ## Files Related to Figure 3
+| File Name | Usage |
 | ----------- | ----------- |
 | lambda\_m.m | Computes an active miner's optimal decision given the global hash rate, pools' fees, and passive hash rates. |
 | g\_lambda.m | Computes the global hash rate will be, given the current global hash rate, pools' fees, and passive hash rates. The global hash rate's "reaction function." |
