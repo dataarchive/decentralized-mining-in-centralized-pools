@@ -13,7 +13,7 @@ Enter
 \>\> fig2
 
 
-## Files Related to Figures 2 and 2'
+## Files Related to Figures 2
 
 | h\_rate\_solo.m | Computes the global hash rate under solo mining. Reference (on page 21): . |
 | --- | --- |
@@ -44,6 +44,7 @@ Enter
 | fees\_obj.m | Computes the "distance" between the current fees and the "future" fees. |
 | fees\_eqm.m | Computes the eqm fees. This function minimizes the "distance" computed by fees\_obj.m. |
 
+#
 
 ## Reference
 Cong, L.W., He, Z. and Li, J., 2021. Decentralized mining in centralized pools. *Review of Financial Studies*, 34(3), pp.1191-1235.
